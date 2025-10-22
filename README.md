@@ -200,6 +200,6 @@ Ao acessar a rota raiz:
 
 ## 🧑‍💻 Autores
 
-**Joel Santos e Turma 165**  
+**Joel Santos e Turma 177**  
 📘 Projeto educacional — Aula 09  
 📅 Publicado no Render  
