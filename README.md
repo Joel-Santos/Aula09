@@ -30,7 +30,7 @@ O objetivo é gerenciar **autores**, **categorias** e **livros**, permitindo rea
 │       └── LivroModel.js
 ├── .env
 ├── package.json
-└── server.js
+└── app.js
 ```
 
 ---
