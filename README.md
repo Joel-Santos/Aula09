@@ -14,7 +14,7 @@ O objetivo é gerenciar **autores**, **categorias** e **livros**, permitindo rea
 ## 🧱 Estrutura de Pastas
 
 ```
-📦 projeto-api-livros
+📦 aula09
 ├── src/
 │   ├── controllers/
 │   │   ├── AutorController.js
@@ -25,9 +25,9 @@ O objetivo é gerenciar **autores**, **categorias** e **livros**, permitindo rea
 │   │   ├── categoriaRoutes.js
 │   │   └── livroRoutes.js
 │   └── models/
-│       ├── Autor.js
-│       ├── Categoria.js
-│       └── Livro.js
+│       ├── AutorModel.js
+│       ├── CategoriaModel.js
+│       └── LivroModel.js
 ├── .env
 ├── package.json
 └── server.js
